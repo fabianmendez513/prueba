@@ -1,0 +1,60 @@
+body {
+    width: 300%;
+    max-width: 350px;
+
+}
+
+.header{
+    width: 200px;
+    height: 600px;
+    background-color: rgb(84, 83, 83);
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: gray;
+    width: 350px;
+    height: 50px;
+}
+
+
+.div2 {
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    background-color: gray;
+    width: 50px;
+    height: 50px;
+    padding: auto;
+}
+
+.cuadrado {
+    background-color:gray;
+    width: 350px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    padding: auto;
+
+
+}
+.div p {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+
+
+.cuadrado2 {
+    background-color: pink;
+    width: 250px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+}
